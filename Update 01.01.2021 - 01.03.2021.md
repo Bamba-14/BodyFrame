@@ -29,5 +29,5 @@ Beside the Farmer another character was introduced to the game. It is exhausting
 
 I'm almost sure that's all the news I have for right now. Do come back to this post as I will post a youtube link to a video, showcasing all of the current features in the game, including every features from this update. 
 And as promised, since you've stuck to the end, here is a sneak peak of the farmer character model:
-![NPCwalking(https://github.com/Bamba-14/BodyFrame-images/blob/main/NPCwalking.PNG?raw=true)
-![NPCidle](https://github.com/Bamba-14/BodyFrame-images/blob/main/NPCidle.PNG?raw=true)
+![NPCwalking](https://github.com/Bamba-14/BodyFrame-images/blob/main/NPCwalking.png?raw=true)
+![NPCidle](https://github.com/Bamba-14/BodyFrame-images/blob/main/NPCidle.png?raw=true)
