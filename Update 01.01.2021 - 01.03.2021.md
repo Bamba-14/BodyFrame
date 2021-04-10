@@ -27,7 +27,7 @@ We can call this character a Farmer. The Farmer is confined to the rectangle mar
 Beside the Farmer another character was introduced to the game. It is exhausting to be fighting trees all the time, so how about fight a strong green monster with a mace? Yes, they hit harder and are harder to kill, but once you see how he terrifies everyone in BuckySide you know it's the right thing to do.
 ![Enemy](https://github.com/Bamba-14/BodyFrame-images/blob/main/Enemy.PNG?raw=true)
 
-I'm almost sure that's all the news I have for right now. Do come back to this post as I will post a youtube link to a video, showcasing all of the current features in the game, including every features from this update. 
+I'm almost sure that's all the news I have for right now. Do come back to this post as I will post [a youtube link to a video](https://www.youtube.com/watch?v=ieyFQ3GLvOU&ab_channel=ErikBabi%C4%8D), showcasing all of the current features in the game, including every features from this update. 
 And as promised, since you've stuck to the end, here is a sneak peak of the farmer character model:
 
 ![NPCwalking](https://github.com/Bamba-14/BodyFrame-images/blob/main/NPCwalking.png?raw=true)
